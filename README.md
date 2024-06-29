@@ -33,6 +33,9 @@ This repository contains the CI/CD pipeline setup for automating the deployment 
 - **terraform/**: Directory containing Terraform configuration files.
 - **docs/**: Documentation and guides.
 
+![image](https://github.com/Kaushikfortis/Azure-AWS-Terraform-CICD/blob/master/IaC-setup.png)
+
+
 ## Using Azure DevOps CI/CD
 
 Azure DevOps provides a comprehensive suite of tools for managing CI/CD pipelines, making it an excellent choice for integrating Terraform.
